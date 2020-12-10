@@ -27,6 +27,7 @@ public class Tests {
 		log.debug("Login failed ");
 		System.out.println("Login failed");
 		Assert.fail(" Failing the test Case");
+		//comment added
 	}
 
 	@Test
